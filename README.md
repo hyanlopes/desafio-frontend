@@ -10,7 +10,7 @@ Nosso modelo de negócios combina projetos de valor compartilhado com consultori
 
 ## Aprendizado e desenvolvimento
 
-Você pode esperar um trabalho intenso em projetos HTML5/CSS3 com o framework React, do facebook, e boas práticas em Redux, um mecanismo de gerenciamento de estado de aplicações, além de diversos componentes javascript. 
+Você pode esperar um trabalho intenso em projetos HTML5/CSS3 com o framework React, do facebook, e boas práticas em Redux, um mecanismo de gerenciamento de estado de aplicações, além de diversos componentes javascript.
 
 O aprendizado se dá através de projetos reais, na construção de sites e aplicações que ajudem causas sociais de impacto. Conforme a evolução, serão feitas transições para projetos de consultoria em ambientes de negócio complexos. Temos o suporte de vídeo aulas em inglês para apoiar os estudos e montamos um plano individual em conjunto.
 
@@ -21,8 +21,8 @@ Serão dois selecionados e apos o desafio técnico teremos conversas por skype, 
 
 ## Como participar
 
-* Crie um novo fork e branch com seu nome-sobrenome e faça um pull request quando estiver pronto. Iremos fazer code review.
-* Envie um email para ola@1sti.com.br para te adicionarmos ao time slack do desafio.
+- Crie um novo fork e branch com seu nome-sobrenome e faça um pull request quando estiver pronto. Iremos fazer code review.
+- Envie um email para ola@1sti.com.br para te adicionarmos ao time slack do desafio.
 
 ## O desafio
 
@@ -42,8 +42,8 @@ Mobile responsivo:
 
 ## Dicas
 
-* Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
-* HTML o mais semântico possível.
-* Branches com readme e instruções de implantação serão bem vindos.
-* Pré-processadores CSS como Stylus ou LESS também.
-* Que tal utilizar BEM nos identificadores css? http://getbem.com/naming/ 
+- Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
+- HTML o mais semântico possível.
+- Branches com readme e instruções de implantação serão bem vindos.
+- Pré-processadores CSS como Stylus ou LESS também.
+- Que tal utilizar BEM nos identificadores css? http://getbem.com/naming/
